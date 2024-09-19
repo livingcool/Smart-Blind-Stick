@@ -1,2 +1,1 @@
-# Smart-Blind-Stick
-Smart Guide for Visually Impaired 
+The main aim of our project was to help and assist the visually impaired people to do teir daily task more efficiently. our project contains navigating map, voice assistance, safety and emergency features. 
